@@ -10,5 +10,6 @@
 
 Создано с использованием: PyQt5, matplotlib.
 
-![demo](https://user-images.githubusercontent.com/87701031/183521055-bb94b623-69b5-4043-8e5c-dc429cea26fe.gif)
+![demo](https://user-images.githubusercontent.com/87701031/183521283-daa25cd4-e5a7-4031-91a8-cbb2d25971d7.gif)
+
 
